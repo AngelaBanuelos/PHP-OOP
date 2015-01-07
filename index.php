@@ -1,3 +1,4 @@
+<!-- Lesson 1 -->
 <?php
 	class Cat {
 		public $firstName = “default name”;
